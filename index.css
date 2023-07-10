@@ -39,6 +39,7 @@ main {
     margin: 0 auto;
     border: 1px solid black;
     position: relative;
+    height: 100%;
 }
 
 .food-items {
