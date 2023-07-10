@@ -68,7 +68,7 @@ function placeInOrder(menuId) {
     if (menu.id === menuId) {
       menuOrder += `
             <div class= 'snacks total-price'>
-             <h3>${menu.name}</h3>
+             <h3 class= 'finals' >${menu.name}</h3>
                 <div class="snacks-name remove">
                     <p data-remove = ${menu.id}>remove</p>
                 </div>

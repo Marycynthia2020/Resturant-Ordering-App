@@ -170,6 +170,10 @@ input {
    font-size: 20px;
 }
 
+.finals {
+    width: 65.698px;
+}
+
 @media(max-width: 500px) {
     header, main {
        width: 100%;
