@@ -39,7 +39,7 @@ main {
     margin: 0 auto;
     border: 1px solid black;
     position: relative;
-    max-height: 100vh;
+    max-height: fit-content;
 }
 
 .food-items {
