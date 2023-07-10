@@ -17,7 +17,7 @@ header {
     width: 50%;
     background-image: url(./images/pizza.webp);
     background-size: cover;
-    color: white;
+    color: black;
     height: 200px;
     display: flex;
     flex-direction: column;
