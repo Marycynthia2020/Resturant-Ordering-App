@@ -60,10 +60,10 @@ main {
     /* border: 1px solid red; */
 }
 
-/* .snacks-name {
-    margin-right: 75%;
+.snacks-name {
+    width: 148.854px;
 
-} */
+}
 
 .fa-plus {
     border: 1px solid gray;
